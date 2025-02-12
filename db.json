@@ -1,0 +1,45 @@
+{
+    "homes": [
+      {
+        "id": "1",
+        "description": "A beautiful home located in the heart of the city.",
+        "imagerUrl": "https://loremflickr.com/640/480/city?random=1",
+        "latitude": "21.0193",
+        "longitude": "33.8171",
+        "address": "123 Main St, City A"
+      },
+      {
+        "id": "2",
+        "description": "A cozy beach house with amazing ocean views.",
+        "imagerUrl": "https://loremflickr.com/640/480/beach?random=2",
+        "latitude": "-41.4618",
+        "longitude": "164.1386",
+        "address": "456 Oak Rd, City B"
+      },
+      {
+        "id": "3",
+        "description": "A modern apartment in the heart of the urban center.",
+        "imagerUrl": "https://loremflickr.com/640/480/urban?random=3",
+        "latitude": "40.7306",
+        "longitude": "-73.9352",
+        "address": "789 Park Ave, City C"
+      },
+      {
+        "id": "4",
+        "description": "A quiet countryside retreat with plenty of space.",
+        "imagerUrl": "https://loremflickr.com/640/480/country?random=4",
+        "latitude": "34.0522",
+        "longitude": "-118.2437",
+        "address": "101 Maple Dr, City D"
+      },
+      {
+        "id": "5",
+        "description": "A luxurious mansion with expansive gardens and views.",
+        "imagerUrl": "https://loremflickr.com/640/480/mansion?random=5",
+        "latitude": "51.5074",
+        "longitude": "-0.1278",
+        "address": "1234 High Tower Blvd, City E"
+      }
+    ]
+  }
+  
